@@ -1,0 +1,287 @@
+.body1
+{
+    background-image: url("https://i.pinimg.com/736x/54/34/3d/54343db4c76bad2f08e025948062a1f6.jpg");
+}
+.navigation0
+{
+    text-align: center;
+    padding-left: 2px;
+
+}
+.navigation1
+{
+    display:flex;
+    padding:4px 9% ;
+    margin-left: 3px;
+    box-sizing: border-box;
+    text-align: center;
+}
+.navigation2
+{
+    display:flex;
+    gap:10px;
+    justify-content:right;
+    align-items: flex-start;
+    padding-top: 5px;
+}
+.navigation3
+{
+    display:flex;
+    gap:10px;
+    justify-content:left;
+    align-items: flex-start;
+}
+a{
+    color:white;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+.e12{
+    width: 400px;;
+}
+.e12{
+    width: 400px;;
+}
+.e12{
+    width: 400px;
+    height: 400px;
+    border: 5px black solid;
+    border-radius: 10px;
+}
+.divition1
+{
+    display:flex;
+    gap: 30px;
+}
+.divition2
+{
+    padding-top: 30px;
+    display:flex;
+    gap: 30px;
+}
+.divition3
+{
+    background-color: #cd9a65;
+    padding:0px;
+    margin:0;
+}
+.body2
+{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgSgDQcvjsnKs--5Uc0QMBij3g6CIyKCJnU73YeC6u4g&s=10");
+
+    background-repeat: no-repeat;
+    
+    background-size: cover;
+
+    background-position: center;
+}
+.Comment3,
+.Comment99,
+.Comment5,
+.Comment6,
+.Comment7,
+.Comment8,
+.Comment9,
+.Comment10,
+.Comment11,
+.Comment12,
+.Comment13,
+.Comment14,
+.Comment15,
+.Comment16,
+.Comment17,
+.Comment18,
+.Comment19,
+.Comment20,
+.Comment21,
+.Comment22,
+.Comment23,
+.Comment24,
+.Comment25,
+.Comment26,
+.Comment27,
+.Comment28,
+.Comment29,
+.Comment30
+{
+    border:5px solid rgb(186,140, 99);
+    border-radius: 30px;
+    width:350px;
+    height:250px;
+}
+.vote-container {
+  display: flex;
+  gap: 15px;
+  font-family: Arial, sans-serif;
+}
+
+.vote-btn {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+  transition: 0.2s;
+}
+
+
+.vote-btn.like-active {
+  background-color: #d4edda;
+  border-color: #28a745;
+  color: #28a745;
+}
+
+
+.vote-btn.dislike-active {
+  background-color: #f8d7da;
+  border-color: #dc3545;
+  color: #dc3545;
+}
+.body3
+{
+    background-image: linear-gradient(to right,#C19A6B,#664228);
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+    min-height: 100vh;      
+    margin: 0;
+}
+.Login1
+{
+    width: 400px;
+    height: 400px;;
+    border: 2px black solid;
+    border-radius: 10px;
+    display: inline-block;
+    padding: 15px;
+
+}
+.Login2
+{
+    text-align: left;
+}
+.Login3
+{
+    margin-top: 20px;
+    margin-bottom:20px;
+    width:250px;
+    height: 20px;
+    border-radius: 8px;
+}
+.Login4
+{
+    margin-top: 20px;
+    margin-bottom:20px;
+    width:250px;
+    height: 20px;
+    border-radius: 8px;
+}
+.Login5
+{
+    margin-bottom:20px;
+}
+.Login7
+{
+    margin-top: 20px;
+    margin-bottom:20px;
+    width: 120px;
+    height: 50px;
+    border-radius: 8px;
+    background-color:#C19A6B
+}
+.body4
+{
+    background-image: linear-gradient(to right,#C19A6B,#664228);
+    background-position:center;
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex; 
+    align-items: center;     
+    min-height: 100vh;       
+    margin: 0;
+    justify-content: center; 
+}
+.Signin3
+{
+    margin: 10px;;
+}
+.Signin4
+{
+    width: 600px;
+    height: 900px;;
+    border: 2px black solid;
+    border-radius: 10px;
+    display: inline-block;
+    padding: 15px;
+    margin: 15px
+}
+
+.Signin6,
+.Signin8,
+.Signin10,
+.Signin12,
+.Signin14,
+.Signin16
+{
+    margin-top: 20px;
+    margin-bottom:20px;
+    width:300px;
+    height: 25px;
+    border-radius: 8px;
+}
+.Signin17
+{
+    margin-top: 20px;
+    margin-bottom:20px;
+    width: 120px;
+    height: 50px;
+    border-radius: 8px;
+    background-color:#C19A6B;
+}
+.Signin99
+{
+    justify-content: center;
+    padding-left:220px;
+}
+.body5
+{
+    background-color: #cd9a65;
+    border-radius: 20px;
+    margin: 0;
+    padding: 0;
+    display: flex;
+   justify-content: center; /* Centers horizontally */
+   align-items: center;     /* Centers vertically */
+   min-height: 100vh;
+}
+.Resorts1
+{
+   width: 1200px;
+   height: 500px;
+   background-color: #935732;
+   border-radius: 20px;
+}
+.yyy
+{
+    text-align: center;
+    padding-top: 200px;
+}
+.yyyy
+{
+    margin-left: 550px;
+    width: 200px;
+    height: 100px;
+    border-radius: 20px;
+    border: 5px #cd9a65 solid
+
+}
+.hhh{
+    width: 350px;
+    height: 300px;
+}
+.body6
+{
+    background-color: #cd9a65;
+}
